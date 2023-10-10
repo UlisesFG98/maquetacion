@@ -1,0 +1,45 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p a {
+    color:rgb(20, 129, 20);
+    text-decoration: none;        
+}
+
+p a:hover {
+    text-decoration: underline;
+    color: rgb(51, 240, 13);
+}
+
+p a:active {
+    color: rgb(54, 188, 21);
+}
+
+h2 a {
+    text-decoration: none;
+}
+
+h2 a:hover {
+        text-decoration: underline;
+}
+
+h2 a:visited {
+    color: black;
+}
+
+h3 a{
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+h3 a:hover {
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: normal;
+}
